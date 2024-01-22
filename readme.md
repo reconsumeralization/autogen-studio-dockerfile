@@ -1,6 +1,6 @@
 # Autogen Studio Docker Image
 
-This repository contains a dockerfile which can be used to build a docker image for the Autogen Studio. The docker image can be used to run the Autogen Studio in a docker container.
+This repository contains a dockerfile which can be used to build a docker image for the Autogen Studio. The docker image can be used to run the Autogen Studio in a docker container Gemini Pro and Gemini Vision.
 
 ## Building the docker image
 
